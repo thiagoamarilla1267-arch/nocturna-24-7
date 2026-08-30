@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#111114"/>
+<path d="M125 400 C215 375 265 325 345 285 L470 315 C525 330 590 370 680 405 L635 460 L250 455 C190 448 150 430 125 400Z" fill="#18181c" stroke="#777" stroke-width="7"/>
+<path d="M345 285 L420 255 L510 315 L475 360 L365 340Z" fill="#29292f"/>
+<path d="M205 402 L625 420 L635 460 L250 455 C190 448 150 430 125 400Z" fill="#202026"/>
+<path d="M360 302 L450 312 M365 322 L455 332 M370 342 L460 352" stroke="#777" stroke-width="8"/>
+<text x="400" y="535" fill="#aaa" font-family="Arial" font-size="27" text-anchor="middle" letter-spacing="4">RETRO 3 · BLACK CAT</text>
+</svg>

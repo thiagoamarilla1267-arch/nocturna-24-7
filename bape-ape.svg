@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#202025"/>
+<path d="M265 165 Q400 115 535 165 L570 235 L545 470 Q400 520 255 470 L230 235Z" fill="#eee"/>
+<path d="M310 190 Q400 150 490 190 L475 275 Q400 315 325 275Z" fill="#111114"/>
+<circle cx="365" cy="225" r="12" fill="#eee"/><circle cx="435" cy="225" r="12" fill="#eee"/>
+<path d="M370 250 Q400 270 430 250" fill="none" stroke="#eee" stroke-width="8"/>
+<text x="400" y="555" fill="#aaa" font-family="Arial" font-size="27" text-anchor="middle" letter-spacing="4">BAPE · APE HEAD TEE</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#17171b"/>
+<path d="M140 390 C220 365 270 320 345 290 L475 330 C525 350 590 375 670 405 L635 460 L270 455 C210 450 165 430 140 390Z" fill="#eee"/>
+<path d="M345 290 L425 260 L515 330 L475 365 L370 345Z" fill="#d5d5d5"/>
+<path d="M195 395 L620 415 L635 460 L270 455 C220 450 175 430 140 390Z" fill="#fafafa"/>
+<path d="M355 305 L450 315" stroke="#888" stroke-width="9"/>
+<path d="M365 325 L460 335" stroke="#888" stroke-width="9"/>
+<path d="M375 345 L470 355" stroke="#888" stroke-width="9"/>
+<text x="400" y="535" fill="#aaa" font-family="Arial" font-size="28" text-anchor="middle" letter-spacing="5">AIR FORCE 1</text>
+</svg>

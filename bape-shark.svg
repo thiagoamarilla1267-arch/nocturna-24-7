@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#15151a"/>
+<path d="M265 165 Q400 115 535 165 L570 235 L545 470 Q400 520 255 470 L230 235Z" fill="#ddd"/>
+<path d="M295 205 L505 205 L520 300 L400 360 L280 300Z" fill="#222229"/>
+<path d="M300 230 L355 260 L300 290 L350 310 L315 340" fill="none" stroke="#eee" stroke-width="10"/>
+<path d="M500 230 L445 260 L500 290 L450 310 L485 340" fill="none" stroke="#eee" stroke-width="10"/>
+<text x="400" y="555" fill="#aaa" font-family="Arial" font-size="27" text-anchor="middle" letter-spacing="4">BAPE · SHARK TEE</text>
+</svg>
